@@ -1,0 +1,1 @@
+Hi! I'm Pratyush Bindal. I'm a passionate programmer hailing from St Christopher's School of Bahrain. Throughout this respoitory, I display my various solutions to various project Euler problems. These are numbered based on the number displayed on the website. It's gonna be quite a hassle once they reach the 4-digit mark to rename everything 
