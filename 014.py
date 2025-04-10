@@ -1,3 +1,6 @@
+import time
+
+start_time = time.time()
 def get_sequence_length(start_num):
 
     list = [start_num]
@@ -26,3 +29,5 @@ for i in range (13, 1000000):
         curr_largest_start = i
     
 print(curr_largest_start)
+end_time = time.time()
+print(f"Time taken: {end_time-start_time}s")
