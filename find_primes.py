@@ -7,7 +7,7 @@ def findPrimes(maxUpperBound):
         if marks[i] == False:
 
             listOfPrimes.append(i)
-            for j in range (i ** 2, maxUpperBound + 1, i):
+            for j in range (i * 2, maxUpperBound + 1, i):
                 marks[j] = True
     return listOfPrimes
 
